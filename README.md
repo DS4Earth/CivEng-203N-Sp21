@@ -1,1 +1,1 @@
-# CivEng 203N Spring 2021, Surface Water Hydrology
+# CivEng 203N: Surface Water Hydrology. Spring 2021
